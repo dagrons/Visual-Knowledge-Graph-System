@@ -1,7 +1,7 @@
 /**
 * global config 
 */
-const url = "http://172.29.236.17:3000"
+const url = "http://localhost:3000"
 
 const color_set = ["#dd6b66",
     "#759aa0",

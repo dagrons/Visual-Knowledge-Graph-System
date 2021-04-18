@@ -1,5 +1,5 @@
 // config 
-const neo4j_ip_addr = '172.29.236.17';
+const neo4j_ip_addr = 'localhost';
 const neo4j_port = '7687';
 const listen_port = '3000';
 const username = 'neo4j';
